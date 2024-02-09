@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="825c4744-0de9-4a2d-9e15-3313b83e2cc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/dio/CounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sintaxe/BankAccount/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sintaxe/BankAccount/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sintaxe/BankAccount/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sintaxe/BankAccount/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sintaxe/BankAccount/BankAccount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sintaxe/BankAccount/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sintaxe/BankAccount/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sintaxe/BankAccount/src/ChequingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sintaxe/BankAccount/src/SavingsAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sintaxe/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="CounterTest.testScannerInput" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2c1T2kwX88JPRZFoRsEgQaIiuPN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.CounterTest.executor": "Run",
+    "JUnit.CounterTest.testCountLogic.executor": "Run",
+    "JUnit.CounterTest.testInvalidInput.executor": "Run",
+    "JUnit.CounterTest.testScannerInput.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/home/lucasr/Desktop/DIO/Java/Java-Developer-DIO/trilha-java-basico/desafios/controle-fluxo/Counter/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.dio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CounterTest.testScannerInput">
+    <configuration name="CounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Counter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.dio" />
+      <option name="MAIN_CLASS_NAME" value="org.dio.CounterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterTest.testCountLogic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Counter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.dio" />
+      <option name="MAIN_CLASS_NAME" value="org.dio.CounterTest" />
+      <option name="METHOD_NAME" value="testCountLogic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterTest.testInvalidInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Counter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.dio" />
+      <option name="MAIN_CLASS_NAME" value="org.dio.CounterTest" />
+      <option name="METHOD_NAME" value="testInvalidInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterTest.testScannerInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Counter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.dio" />
+      <option name="MAIN_CLASS_NAME" value="org.dio.CounterTest" />
+      <option name="METHOD_NAME" value="testScannerInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CounterTest.testScannerInput" />
+        <item itemvalue="JUnit.CounterTest" />
+        <item itemvalue="JUnit.CounterTest.testCountLogic" />
+        <item itemvalue="JUnit.CounterTest.testInvalidInput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="825c4744-0de9-4a2d-9e15-3313b83e2cc2" name="Changes" comment="" />
+      <created>1707277881889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707277881889</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Counter$CounterTest_testInvalidInput.ic" NAME="CounterTest.testInvalidInput Coverage Results" MODIFIED="1707438310991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.dio.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Counter$CounterTest.ic" NAME="CounterTest Coverage Results" MODIFIED="1707438907160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.dio.*</FILTER>
+    </SUITE>
+  </component>
+</project>
