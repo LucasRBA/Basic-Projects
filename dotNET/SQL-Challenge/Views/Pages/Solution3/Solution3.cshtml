@@ -1,0 +1,36 @@
+@model List<SQL_Challenge_DIO.Models.Movies>
+@using static SQL_Challenge_DIO.Controllers.MoviesController
+
+@{
+    Layout = "~/Views/Shared/_SolutionLayout.cshtml";
+}
+
+
+<h3 class="text-center">Third Solution</h3>
+<br/>
+<h5>SELECT Statement:</h5>
+<br/>
+<div>
+<h6 class="statement">
+   @Html.Raw(@GetThirdQuery())
+</h6>
+</div>    
+<br/>
+<table class="table table-sm table-hover table-bordered table-striped">
+    <tr>
+        <th class="text-center">Title</th>
+        <th class="text-center">Year</th>
+        <th class="text-center">Movie Length</th>
+    </tr>
+    @foreach(var movie in Model){
+    <tr>
+        <td>@movie.Name</td>
+        <td class="text-center">@movie.Year</td>
+        <td class="text-center">@movie.MovieLength minutes</td>
+    </tr>
+    }
+
+</table>
+<div>
+    
+</div>

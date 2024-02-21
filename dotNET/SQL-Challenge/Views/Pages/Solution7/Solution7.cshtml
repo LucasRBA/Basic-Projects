@@ -1,0 +1,34 @@
+@model List<SQL_Challenge_DIO.Controllers.JoinsController.Count>
+@using static SQL_Challenge_DIO.Controllers.JoinsController
+
+@{
+    Layout = "~/Views/Shared/_SolutionLayout.cshtml";
+}
+
+
+<h3 class="text-center">Seventh Solution</h3>
+<br/>
+<h5>SELECT Statement:</h5>
+<br/>
+<div>
+<h6 class="statement">
+   @Html.Raw(GetSeventhQuery())
+</h6>
+</div>    
+<br/>
+<table class="table table-sm table-hover table-bordered table-striped">
+    <tr>
+        <th class="text-center">Year</th>
+        <th class="text-center">Count by Year</th>
+    </tr>
+    @foreach(var movie in Model){
+    <tr>
+        <td class="text-center">@movie.Year</td>
+        <td class="text-center">@movie.MovieCount</td>
+    </tr>
+    }
+
+</table>
+<div>
+    
+</div>

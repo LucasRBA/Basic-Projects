@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wdth@112.5&display=swap');
+
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.statement{
+  min-width: 10rem;
+  min-height: 6rem;
+  margin-right: 6rem;
+  margin-left: 5rem;
+  padding-top: 0.2rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  background-color: rgba(128, 128, 128, 0.55);
+  font-family:'Inconsolata';
+  font-style: oblique;
+  color: blue;
+  white-space:pre-wrap;
+  text-wrap: balance;
+  border-radius: 0.5rem;
+}
+
