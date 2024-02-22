@@ -35,4 +35,4 @@
 ![Linux Settings](https://github.com/LucasRBA/Basic-Projects/blob/main/dotNET/SQL-Challenge/assets/Screenshot_20240221_235026.png)<br/>
 *Linux Settings for .NET ASPNET/MVC*
 
-#### PS: dotnet platform runs on windows or unix based platforms, in order to run on linux distros that have their on repos and names under runtimes such as "manjaro-x64" you will need to set a fallback runtime for arch-x64 instead of manjaro-x64, and include linux-x66, unix, and unix-64 inside the array of runtime settings.
+#### PS: dotnet platform runs on windows or unix based platforms, in order to run on linux distros that have their on repos and names under runtimes such as "manjaro-x64" you will need to set a fallback runtime for arch-x64, and linux-x64 instead of manjaro-x64, and include linux-x64, unix, and unix-64 inside the array of runtime settings.
