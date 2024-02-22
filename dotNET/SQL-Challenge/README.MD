@@ -12,7 +12,7 @@
 
 #### 3) At the root of this project there are the appsettings.json and appsettings.Development file, which contains the connection string to connect to the database, you will need to change the values according to your environment as shown below:
 
-![DBConnection](/assets/Screenshot_20240221_231340.png)<br/>
+![DBConnection](https://github.com/LucasRBA/Basic-Projects/blob/main/dotNET/SQL-Challenge/assets/Screenshot_20240221_231340.png)<br/>
 *The Connection String to be replaced inm both files*
 
 #### 4) You may run the MVC app locally or deploy it on Azure, for this you will need to have a Visual Studio and an Azure account.
