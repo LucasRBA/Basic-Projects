@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# This project was inspired by the following challenge [Calculator Challenge](https://github.com/digitalinnovationone/trilha-react-desafio01-calculadora) from DIO
+
+### It was proposed by [pablohdev](https://github.com/pablohdev) during the React Course created in partnership with [Digital Innovation One](https://web.dio.me/)
+
+### In addition to the calculator functionality, I learned about the react-router-dom creating a Unit Converter that was basically a fork from this project from user [Karthikeyan Ranasthala](https://codesandbox.io/p/sandbox/github/KarthikeyanRanasthala/react-unit-converter/tree/master/?file=%2Fsrc%2Fcomponents%2FInputField.js%3A15%2C30)
+
+### This was also developed, ran and debugged using [Bun](https://bun.sh/), in order to run a project with using bun you may need to follow the documentation in the link above and execute it with `bun run start`
+
+
+
+# Below are instructions generated automatically by the `create-react-app` command.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,7 +18,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start` or 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
